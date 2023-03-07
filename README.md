@@ -1,1 +1,1 @@
-See the WIKI for commands!
+See the [WIKI](https://github.com/RandomGgames/UsefulCommands/wiki) for commands!
